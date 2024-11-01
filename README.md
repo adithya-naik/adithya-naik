@@ -39,7 +39,12 @@
 
 
 
-
+<details>
+  <summary><h2> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
+  <div align="center">
+    ![](https://github-readme-activity-graph.vercel.app/graph?username=adithya-naik&theme=tokyo-night)
+  </div>
+</details>
 
 
 

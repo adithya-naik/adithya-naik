@@ -29,7 +29,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-naik&" alt="adithya-naik" /></p>
 <h2>
-  <p>Click to see a random joke</p>
+<!--   <p>Click to see a random joke</p> -->
   <div align="center">
 
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
@@ -39,12 +39,12 @@
 
 
 
-<details>
-  <summary><h2> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
+<p>
+  <h2> <img align="center" src="https://github.com/adithya-naik/adithya-naik/blob/main/icons/stats.gif" width="32"/> Stats</h2>
   <div align="center">
     ![](https://github-readme-activity-graph.vercel.app/graph?username=adithya-naik&theme=tokyo-night)
   </div>
-</details>
+</p>
 
 
 

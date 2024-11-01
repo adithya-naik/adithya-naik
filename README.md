@@ -30,9 +30,14 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-naik&" alt="adithya-naik" /></p>
 
 <p> <img align="center" src="https://github.com/adithya-naik/adithya-naik/blob/main/icons/stats.gif" width="32"/> Stats</p>
-<h2>
+<p>
+  <summary>Click to see a random joke</summary>
+  <div align="center">
+
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
-</h2>
+
+  </div>
+</p>
 
 
 

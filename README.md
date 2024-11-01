@@ -31,10 +31,10 @@
 
 <p> <img align="center" src="https://github.com/adithya-naik/adithya-naik/blob/main/icons/stats.gif" width="32"/> Stats</p>
 <p>
-  <summary>Click to see a random joke</summary>
+<!--   <summary>Click to see a random joke</summary> -->
   <div align="center">
 
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
   </div>
 </p>

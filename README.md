@@ -31,22 +31,10 @@
 
 <p> <img align="center" src="https://github.com/adithya-naik/adithya-naik/blob/main/icons/stats.gif" width="32"/> Stats</p>
 <h2>
-<!--   <p>Click to see a random joke</p> -->
-  <div align="center">
-
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
-
-  </div>
 </h2>
 
 
-
-<p>
-  <h2> <img align="center" src="https://github.com/adithya-naik/adithya-naik/blob/main/icons/stats.gif" width="32"/> Stats</h2>
-  <div align="center">
-    ![](https://github-readme-activity-graph.vercel.app/graph?username=adithya-naik&theme=tokyo-night)
-  </div>
-</p>
 
 
 

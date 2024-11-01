@@ -28,14 +28,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adithya-naik&show_icons=true&locale=en" alt="adithya-naik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-naik&" alt="adithya-naik" /></p>
-<details>
-  <summary>Click to see a random joke</summary>
+<h2>
+  <p>Click to see a random joke</p>
   <div align="center">
 
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
 
   </div>
-</details>
+</h2>
 
 
 

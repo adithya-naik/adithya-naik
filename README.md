@@ -2,6 +2,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+# GitHub Dashboard
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
 
 
 

@@ -2,11 +2,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-# GitHub Dashboard
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adithya-naik&show_icons=true)
-
-
 
 
 <h1 align="center">Hi 👋, I'm Adithya Naik</h1>

@@ -4,9 +4,9 @@
 
 # GitHub Dashboard
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adithya-naik&show_icons=true)
 
-![Profile README](https://github-profile-readme.vercel.app/api?username=your-username)
+![Profile README](https://github-profile-readme.vercel.app/api?username=adithya-naik)
 
 
 

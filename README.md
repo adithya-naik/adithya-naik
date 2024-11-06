@@ -4,7 +4,7 @@
 
 # GitHub Dashboard
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adithya-naik&show_icons=true)
 
 
 

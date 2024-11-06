@@ -2,6 +2,14 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+# GitHub Dashboard
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+
+![Profile README](https://github-profile-readme.vercel.app/api?username=your-username)
+
+
+
 <h1 align="center">Hi 👋, I'm Adithya Naik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 

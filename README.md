@@ -35,7 +35,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adithya-naik&show_icons=true&locale=en" alt="adithya-naik2" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-naik&" alt="adithya-naik3" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=adithya-naik&" alt="adithya-naik3" /></p>
 
 <p>
 <!--   <summary>Click to see a random joke</summary> -->

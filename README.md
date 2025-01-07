@@ -16,7 +16,7 @@
   
 - 🕸️ I’m currently Working on  **Sociaio** a Social Media App
 
-- 👨‍💻 All of my projects are available at [https://adithya-naik.github.io/Portfolio/](https://adithya-naik.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at https://adithya-naik.netlify.app/
 
 - 📫 How to reach me **jatothadithyanaik@gmail.com**
 

@@ -19,6 +19,41 @@
 
 ---
 
+## 🏆 Certifications
+
+- **JavaScript & ReactJS Developer Certification** - Coursera
+- **Frontend Development Bootcamp** - Udemy
+- **Python for Data Science** - IBM
+
+---
+
+## 📚 Latest Blog Posts
+
+- [How to Master React Hooks](#)
+- [CSS Grid vs Flexbox: When to Use What?](#)
+- [10 JavaScript Tricks Every Developer Should Know](#)
+
+➡️ [Read more on my Blog](#)
+
+---
+
+## 🔥 Open Source Contributions
+
+- Contributed to **[React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)**
+- Fixed UI bugs in **[Open Source Dashboard](https://github.com/opensource-dashboard)**
+- Developed a **Node.js-based API** for an open-source social media project
+
+---
+
+## 🎯 Roadmap & Goals
+
+- 🔹 Master **Next.js** & **TypeScript**
+- 🔹 Contribute more to **open-source projects**
+- 🔹 Build a full-stack **SaaS Application**
+- 🔹 Create **YouTube tutorials** for frontend developers
+
+---
+
 ## 🔗 Connect with Me
 
 <p align="left">

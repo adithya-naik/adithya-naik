@@ -14,6 +14,8 @@
 - 💼 Check out my projects: [Portfolio Website](https://adithya-naik.netlify.app/)
 - 📫 Reach me at **jatothadithyanaik@gmail.com**
 - ⚡ Fun fact: **Web development makes me feel like a wizard! 🧙‍♂️✨**
+- 🎯 Interests: **UI/UX Design, JavaScript Frameworks, Open Source Contribution**
+- 🎓 Education: **Pursuing a degree in Computer Science**
 
 ---
 
@@ -22,6 +24,7 @@
 <p align="left">
 <a href="https://twitter.com/adithya__naik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adithya__naik" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adithyanaik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adithyanaik" height="30" width="40" /></a>
+<a href="https://github.com/adithya-naik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
 
 ---
@@ -52,6 +55,9 @@
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
 </p>
 

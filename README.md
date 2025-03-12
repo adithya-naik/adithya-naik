@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jatoth Adithya Naik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+## Profile Views :
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adithya-naik&label=Profile%20views&color=0e75b6&style=flat" alt="adithya-naik" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adithya.naik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adithyanaik) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/adithya__naik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jatothadithyanaik@gmail.com) 
@@ -20,7 +22,4 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=adithya-naik&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=adithya-naik&icon=5&color=3)](https://visitcount.itsvg.in)
 
